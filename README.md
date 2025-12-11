@@ -65,6 +65,7 @@ License Summary
 
 This project is shared publicly for viewing and discussion only.
 All creative rights, mechanics, systems, and written content remain the exclusive property of the author.
+
 You may:
 
 -Read and discuss the material
