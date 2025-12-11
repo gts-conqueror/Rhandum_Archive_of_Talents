@@ -15,11 +15,11 @@ Design Intent
 
 The guiding philosophy behind this project is simple:
 
-No early-game dominance power is earned through setup, positioning, hard decisions and sacrifice
+-No early-game dominance power is earned through setup, positioning, hard decisions and sacrifice
 
-Anti-Spam Friendly; buffs, curses, and rituals require timing and commitment
+-Anti-Spam Friendly; buffs, curses, and rituals require timing and commitment
 
-Every effect has a cost; silence before song, restraint before crescendo
+-Every effect has a cost; silence before song, restraint before crescendo
 
 Many mechanics are structured around setup, and delayed impact, reinforcing a support identity that rewards foresight rather than reaction. Effects unfold in phases, not bursts allowing opponents time to read the play and respond, keeping things fair in such a fast paced game.
 
@@ -29,16 +29,15 @@ Scope and Structure
 This project is released in discrete batches, each focusing on a small group of units(about 5 per batch).
 Every unit includes:
 
-Base mechanic adjustments (if required for modern balance)
+-Base mechanic adjustments (if required for modern balance)
 
+-Full talent trees with left/right (includes identity splits and symbolism for Rhandum lore)
 
-Full talent trees with left/right (includes identity splits and symbolism for Rhandum lore)
+-Reincarnation skills where thematically appropriate
 
-Reincarnation skills where thematically appropriate
+-Clear constraints to prevent abuse
 
-Clear constraints to prevent abuse
-
-Explicit points where developer discretion is expected
+-Explicit points where developer discretion is expected
 
 Think of each section as a movement, not a solo meant to be read in context, not isolation.
 
@@ -50,11 +49,11 @@ This work is shared as a “creative systems compendium” and a “conceptual d
 
 It may serve as:
 
-A discussion piece for the player community
+-A discussion piece for the player community
 
-A source of inspiration for future design passes
+-A source of inspiration for future design passes
 
-A conceptual sketchbook for reimagining units systems
+-A conceptual sketchbook for reimagining units systems
 
 
 I am open to discussion, feedback, and potential collaboration with the Rush Royale development team or affiliated partners.
@@ -68,26 +67,24 @@ This project is shared publicly for viewing and discussion only.
 All creative rights, mechanics, systems, and written content remain the exclusive property of the author.
 You may:
 
-Read and discuss the material
+-Read and discuss the material
 
-Reference or link to this repository
+-Reference or link to this repository
 
 You may not:
 
-Copy, modify, redistribute, or republish any content
+-Copy, modify, redistribute, or republish any content
 
-Use these systems in any game, prototype, document, or development process
+-Use these systems in any game, prototype, document, or development process
 
-Incorporate any part of this work into Rush Royale or other projects
+-Incorporate any part of this work into Rush Royale or other projects
 
-Any commercial, developmental, or collaborative use requires a formal agreement with the author.
+-Any commercial, developmental, or collaborative use requires a formal agreement with the author.
 
 
 Final Note
 
 
 These ideas are offered in good faith and with respect for the complexity of live game balance.
-
 They are not prescriptions, only melodies that could be cut, softened, or rearranged entirely.
-
 If nothing else, let them remind us that even older instruments can still shape the rhythm of the board.
