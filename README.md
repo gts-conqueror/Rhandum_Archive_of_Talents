@@ -39,7 +39,7 @@ Every unit includes:
 
 -Explicit points where developer discretion is expected
 
-Think of each section as a movement, not a solo meant to be read in context, not isolation.
+Think of each section as a movement.
 
 
 Collaboration & Use
