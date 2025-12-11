@@ -4,7 +4,7 @@ A curated codex of proposed talents and reincarnations for Rush Royale’s forgo
 
 Project Overview
 
-This repository presents a community-designed talent and reincarnation proposal for Rush Royale, focused specifically on older and underutilized units whose mechanical identity has faded over time.
+This repository presents a talent and reincarnation proposal for Rush Royale, focused specifically on older and underutilized units whose mechanical identity has faded over time.
 
 Rather than rewriting fundamentals, these designs aim to restore relevance through harmony, tempo control, and risk-weighted payoff preserving the game’s core cadence while introducing new moments of decision, preparation, and counterplay.
 
