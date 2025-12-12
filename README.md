@@ -14,7 +14,6 @@ Each system is written with developer tunability in mind. Percentages, durations
 Design Intent
 
 The guiding philosophy behind this project is simple:
-
 -No early-game dominance power is earned through setup, positioning, hard decisions and sacrifice
 
 -Anti-Spam Friendly; buffs, curses, and rituals require timing and commitment
@@ -44,7 +43,6 @@ Think of each section as a movement.
 
 Collaboration & Use
 
-
 This work is shared as a “creative systems compendium” and a “conceptual design portfolio”.
 
 It may serve as:
@@ -55,13 +53,11 @@ It may serve as:
 
 -A conceptual sketchbook for reimagining units systems
 
-
 I am open to discussion, feedback, and potential collaboration with the Rush Royale development team or affiliated partners.
 Any deeper use, adaptation, or formal collaboration beyond public discussion should be initiated through direct contact.
 
 
 License Summary
-
 
 This project is shared publicly for viewing and discussion only.
 All creative rights, mechanics, systems, and written content remain the exclusive property of the author.
@@ -84,7 +80,6 @@ You may not:
 
 
 Final Note
-
 
 These ideas are offered in good faith and with respect for the complexity of live game balance.
 They are not prescriptions, only melodies that could be cut, softened, or rearranged entirely.
