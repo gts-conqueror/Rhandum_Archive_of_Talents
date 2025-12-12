@@ -56,6 +56,8 @@ It may serve as:
 I am open to discussion, feedback, and potential collaboration with the Rush Royale development team or affiliated partners.
 Any deeper use, adaptation, or formal collaboration beyond public discussion should be initiated through direct contact.
 
+Community feedback submitted in the Townhall discussions may inspire future revisions.
+All final design decisions remain curated and authored within this repository.
 
 License Summary
 
