@@ -1,1 +1,19 @@
+Mime
+Base Mechanic Adjustment
+-Gains a mana ability that reduces the merge rank of the highest-rank Mime.
+-Ability cannot reduce a unit below merge rank 1.
+-Cooldown left for developers to define
 
+* Pronounced “ I feel Joy/Sorrow*
+
+1st Talent (Left):Eiffel Joy: Introduces a type of mime called the mask maker, makes a Joy mask that boosts attack speed by 10% every 30s and throws on a random unit for 15s , If it land on a mime the effect is boosted by 1% then rebounded to another random unit. 5% max boost.
+1st Talent (Right) Eiffel Sorrow: Introduces a type of mime called the mask maker, makes a Rage mask that grants armour destruction of 5% every 30s and throws on a random unit for 15s, If it land on a mime the effect is boosted by 0.5% then rebounded to another random unit. 5% max boost
+
+
+2nd Talent (Left) : Exaggeration: Mask effects have a 10% chance of lasting 25% longer 
+2nd Talent (Right) :Productive Silence: Mask maker has a 10% chance to throw 2 masks
+
+3rd Talent (Left): Seeing is Believing: After 6 acts (merges with other units) the Mask maker manifests an invisible Barrier that stuns monster movement for 4 seconds.
+3rd Talent (Right): Deafening Visuals: After 6 acts (merges with other units) Summons monsters to the opponents field that exert the negative characteristic of the first selected talent unto the opponents units
+
+Final Talent: Final Performance/ Marceau's Performance: Mask maker entertains the first boss on the field,delaying the boss’s ability by 50% of the usual activation time.
