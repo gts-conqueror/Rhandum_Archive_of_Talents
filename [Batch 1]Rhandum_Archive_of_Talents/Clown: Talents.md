@@ -1,8 +1,8 @@
 # Clown
 
 ## Base Mechanic Adjustment
-- Gains a mana ability that reduces the merge rank of the highest-rank Clown.
-- Ability cannot reduce below merge rank 1.
+- Gains a mana ability that grants a merge rank to the highest-rank Clown.
+- Ability cannot exceed merge rank 5 before switching to the next higest clown.
 - Cooldown: *TBD by developers.*
 
 ---
