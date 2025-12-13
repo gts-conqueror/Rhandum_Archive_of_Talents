@@ -11,7 +11,7 @@ Right talents: a timid, self-conflicting executioner._
   - 3% chance to instantly kill the next monster after finishing one.
 
 - **Right: Word is Law**
-  - After finishing 18 monsters, Executioner stops finishing but gives all units a 2% instant kill chance for 10s. Then resumes normal duties.
+  - After finishing 20 monsters, Executioner stops finishing but gives all units a 2% instant kill chance for 10s. Then resumes normal duties.
 
 ---
 
@@ -39,3 +39,5 @@ Right talents: a timid, self-conflicting executioner._
 
 - **Asylum Frenzy**
   - After every instant kill, increases instant kill chance by 0.5%, resets at 10%.
+
+   *Stack counter incorporated for tracking.*
