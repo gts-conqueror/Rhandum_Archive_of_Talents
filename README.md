@@ -60,7 +60,7 @@ It may serve as:
 
 - A discussion piece for the player community
 - A source of inspiration for future design passes
-- A conceptual sketchbook for reimagining legacy unit systems
+- A conceptual sketchbook for reimagining unit systems
 
 I am open to **discussion, feedback, and potential collaboration** with the *Rush Royale* development team or affiliated partners.
 
@@ -91,6 +91,6 @@ Any **commercial, developmental, or collaborative use** requires a **formal agre
 ## Final Note
 
 These ideas are offered in good faith and with respect for the complexity of live game balance.  
-They are not prescriptions—only melodies that could be cut, softened, or rearranged entirely.
+They are not prescriptions, but only melodies that could be cut, softened, or rearranged entirely.
 
 If nothing else, let them stand as proof that **even older instruments can still shape the rhythm of the board**.
