@@ -49,5 +49,6 @@
 
 - **The Fool**
   - Clowns have a 25% chance of taking negative effects.
-  - When stacks are at 0: All units gain +1% crit chance.
+  - When there're no units with the clan copy effect: All units gain +1% crit chance.
   - Every 30s, Clowns throw light-based origami on the field, weakening monsters (breaks 5% armor for 10s).
+    
