@@ -10,13 +10,13 @@ This repository presents a **talent and reincarnation proposal** for *Rush Royal
 
 Rather than rewriting core systems, these designs aim to restore relevance through **harmony, tempo control, and risk-weighted payoff**, preserving the game’s cadence while introducing new moments of decision, preparation, and counterplay.
 
-Each system is written with **developer tunability** in mind. Percentages, durations, cooldowns, and thresholds are deliberately conservative and modular—*notes in a score, not a locked performance.*
+Each system is written with **developer tunability** in mind. Percentages, durations, cooldowns, and thresholds are deliberately conservative and modular *notes in a score, not a locked performance.*
 
 ---
 
 ## Design Intent
 
-The guiding philosophy behind this project is simple:
+The guiing philosophy behin this project is simple:
 
 - **No early-game dominance**  
   Power is earned through setup, positioning, hard decisions, and sacrifice.
@@ -28,7 +28,7 @@ The guiding philosophy behind this project is simple:
   Silence before song. Restraint before crescendo.
 
 Many mechanics are structured around **setup and delayed impact**, reinforcing a support-forward identity that rewards foresight rather than reaction.  
-Effects unfold in **phases, not bursts**, allowing opponents time to read the play and respond—keeping balance intact in a fast-paced game.
+Effects unfold in **phases, not bursts**, allowing opponents time to read the play and respond keeping balance intact in a fast-paced game.
 
 ---
 
