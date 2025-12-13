@@ -14,6 +14,7 @@ Base Mechanic Adjustment
 
 1st Talent (Right) Perhaps Take 2? : After a failed copy attempt there's a 40% chance a clown will get a second chance without losing a merge rank
 
+
 2nd Talent (Left) : Emperor’s Acrobat: all clowns become acrobats giving a 10% attack speed boost per merge rank to adjacent units, however if 2 or more clowns are adjacent to each other the bonus is reduced to 5% ,
 
 2nd Talent (Right): Emperor’s Juggler:all clowns become jugglers giving a +1% crit chance to adjacent units, however if 2 or more clowns are adjacent to each other the bonus is reduced to 0.5%
@@ -22,5 +23,6 @@ Base Mechanic Adjustment
 3rd Talent (Left) Purity of Imagination 10% chance to summon origami familiars to the opponents board with 150% monster health after they are killed summons a light beam that exorcises the first 3 monsters on the board.
 
 3rd Talent (Right) Art of Craft 8% chance to summon a balloon to the opponents field that nullifies all crit in an area of surrounding monsters, the balloon has 50% monster health and upon its destruction will summon a light scissors that exorcises first 3 monsters on your field.
+
 
 Final Talent: The Fool: Gives clowns a 25% chance of taking negative effects.When Stacks are at 0 gives a +1% crit chance to all units.Clowns also throw light based origami every 30 seconds on the field that weaken monsters breaking 5% armour for 10 seconds
