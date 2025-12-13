@@ -1,20 +1,36 @@
-Reincarnation robot
+# Robot (Reincarnation Robot)
 
-Skill 1- OVERCLOCKED (with Harlequin) Attack speed increases by 1% for every merge rank on the field.gains +0.2% per merge rank once mak is reached
-L1 MAX at 30% Attack speed boost 
-L2 MAX at 40% Attack speed boost 
-L3 MAX at 50% Attack speed boost
+## Skill 1: Overclocked (with Harlequin)
+- Attack speed increases by 1% per merge rank on the field.
+- Gains +0.2% per merge rank after max is reached.
 
-Skill 2  -  AERIAL STRIKE (with Phoenix): every 10 parts applied small drones appear, attacking for 5 seconds dealing;
-L1:40% of Robot’s Critical Damage in an Area
-L2: 50% of Robot’s Critical Damage in an Area
-L3:60% of Robot’s Critical Damage in an Area
+| Level | Max Attack Speed Boost |
+|-------|------------------------|
+| L1    | 30%                   |
+| L2    | 40%                   |
+| L3    | 50%                   |
 
+---
 
-Skill 3 - MED-BAY PROTOCOL/ CLOUD BACKUP(with Scrapper): A new type of robot is introduced called A.R.A (Advanced Recovery Assistant).
-She has a 10% chance of spawning and can't be upgraded with parts.When a robot is destroyed, ARA recovers a certain number of Parts of the destroyed robot.
-Recovery triggers when she’s merged with a regular robot and all the parts are transferred. For talent: General program ARA stores merge ranks from destroyed robots.
+## Skill 2: Aerial Strike (with Phoenix)
+- Every 10 parts applied, small drones appear, attacking for 5s (Area Damage).
 
-L1:Cache 7 Parts, 2 merge ranks(for G.P)
-L2:Cache 9 Parts, 3 merge ranks(for G.P)
-L3 Cache 12 Parts, 4 merge ranks(for G.P)
+| Level | Area Damage % of Robot's Crit Damage |
+|-------|--------------------------------------|
+| L1    | 40%                                 |
+| L2    | 50%                                 |
+| L3    | 60%                                 |
+
+---
+
+## Skill 3: Med-Bay Protocol / Cloud Backup (with Scrapper)
+- Introduces new robot: **A.R.A. (Advanced Recovery Assistant)**
+  - 10% chance of spawning (cannot upgrade with parts).
+  - When a robot is destroyed, A.R.A. recovers a number of its parts (triggered when merged with a regular robot).
+  - For "General Program" talent: A.R.A. stores merge ranks from destroyed robots.
+
+| Level | Cache Parts | Cache Merge Ranks (G.P.) |
+|-------|-------------|--------------------------|
+| L1    | 7           | 2                        |
+| L2    | 9           | 3                        |
+| L3    | 12          | 4                        |
