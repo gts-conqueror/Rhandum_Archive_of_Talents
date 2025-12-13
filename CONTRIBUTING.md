@@ -73,7 +73,7 @@ Your submission may be:
 
 **I read every comment.**
 
-Ideas incorporated into final design notes will be credited in the **Hall_of_Fame**.
+Ideas incorporated into final design notes will be credited in the **Rhandum_TownHall;Hall_of_Fame**.
 
 ---
 
