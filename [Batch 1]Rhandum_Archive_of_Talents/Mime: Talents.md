@@ -23,6 +23,7 @@
     - Thrown to a random unit for 15s.
     - If it lands on a Mime, effect boosted by 0.5% and rebounds. Max boost: 5%.
 
+ *Visual & Sound cues indicate rebound.*
 ---
 
 ## 2nd Talent
