@@ -1,21 +1,41 @@
-Executioner
+# Executioner
 
-Left Talents Symbolize an executioner that enjoys killing
-Right Talents Symbolize a timid and self conflicting executioner
+_Left talents: an executioner who enjoys killing.  
+Right talents: a timid, self-conflicting executioner._
 
-1st Talent (Left) Will to Kill: An Executioner has a 3% chance of instant killing the next monster after finishing off a monster
+---
 
-1st Talent (Right) Word is Law: An Executioner stops finishing off monsters after 18 monsters but give a 2% chance for instant killing monsters to all units for 10 seconds before resuming its duties.
+## 1st Talent
 
+- **Left: Will to Kill**
+  - 3% chance to instantly kill the next monster after finishing one.
 
-2nd Talent (Left) Execution Thrill: Increases boss finish off health by 2% from base
+- **Right: Word is Law**
+  - After finishing 18 monsters, Executioner stops finishing but gives all units a 2% instant kill chance for 10s. Then resumes normal duties.
 
-2nd Talent (Right) Executioner’s Depression: reduces finish off % by 50% to increase executioners damage by 10% per merge rank
+---
 
+## 2nd Talent
 
-3rd Talent (Left) Unlawful execution: An executioner has a 3% chance to unleash his 2 handed axe that’ll go around the board and cleaves 50% of monster health and finishes off any monster below 50% health.
+- **Left: Execution Thrill**
+  - Increases boss finish-off health by 2% from base.
 
-3rd Talent (Right) Judge and Jury: An executioner has a 2,5% chance to judge a boss and sentence it to immediate execution with a massive 2 hand axe after it uses its ability.Only one boss per wave can be judged
+- **Right: Executioner’s Depression**
+  - Reduces finish-off % by 50%, but increases Executioner's damage by 10% per merge rank.
 
+---
 
-Final Talent:Asylum Frenzy: After Every instant kill, increases the chance for instant kill by .5% but resets at 10% 
+## 3rd Talent
+
+- **Left: Unlawful Execution**
+  - 3% chance to unleash two-handed axe: sweeps the board, cleaving 50% monster health and finishing any monster below 50% health.
+
+- **Right: Judge and Jury**
+  - 2.5% chance to judge a boss and execute it with a massive axe after it uses its ability (max 1 boss per wave).
+
+---
+
+## Final Talent
+
+- **Asylum Frenzy**
+  - After every instant kill, increases instant kill chance by 0.5%, resets at 10%.
