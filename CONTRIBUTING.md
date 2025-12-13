@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the **Rhandum Townhall** design archive.
 
-This project welcomes community insight, discussion, and creative sparks—while preserving **clear authorship boundaries** and a unified design vision.
+This project welcomes community insight, discussion, and creative sparks while preserving **clear authorship boundaries** and a unified design vision.
 
 ---
 
