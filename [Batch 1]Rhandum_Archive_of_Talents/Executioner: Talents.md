@@ -4,12 +4,18 @@ Left Talents Symbolize an executioner that enjoys killing
 Right Talents Symbolize a timid and self conflicting executioner
 
 1st Talent (Left) Will to Kill: An Executioner has a 3% chance of instant killing the next monster after finishing off a monster
-1st Talent (Right) Word is Law: An Executioner stops finishing off monsters after 18% but give a 10% chance for instant killing monsters to all units for 10 seconds before resuming its duties.
+
+1st Talent (Right) Word is Law: An Executioner stops finishing off monsters after 18 monsters but give a 2% chance for instant killing monsters to all units for 10 seconds before resuming its duties.
+
 
 2nd Talent (Left) Execution Thrill: Increases boss finish off health by 2% from base
+
 2nd Talent (Right) Executioner’s Depression: reduces finish off % by 50% to increase executioners damage by 10% per merge rank
 
+
 3rd Talent (Left) Unlawful execution: An executioner has a 3% chance to unleash his 2 handed axe that’ll go around the board and cleaves 50% of monster health and finishes off any monster below 50% health.
+
 3rd Talent (Right) Judge and Jury: An executioner has a 2,5% chance to judge a boss and sentence it to immediate execution with a massive 2 hand axe after it uses its ability.Only one boss per wave can be judged
+
 
 Final Talent:Asylum Frenzy: After Every instant kill, increases the chance for instant kill by .5% but resets at 10% 
