@@ -36,7 +36,7 @@
 
 - **Left: Purity of Imagination**
   - 10% chance to summon origami familiars onto the opponent’s board (150% monster health).
-  - Upon their defeat, summons a light beam that exorcises the first 3 monsters on the board.
+  - Upon their defeat, summons a light beam that exorcises the first 3 monsters on your board.
 
 - **Right: Art of Craft**
   - 8% chance to summon a balloon on the opponent’s board.
@@ -51,4 +51,5 @@
   - Clowns have a 25% chance of taking negative effects.
   - When there're no units with the clan copy effect: All units gain +1% crit chance.
   - Every 30s, Clowns throw light-based origami on the field, weakening monsters (breaks 5% armor for 10s).
-    
+     
+     *Sound cues/ animations to indicate "The fool's" sacrifice.*
