@@ -1,41 +1,84 @@
-Shaman
-Base Mechanic Adjustment
--Gains a mana ability that reduces the merge rank of the highest-rank shaman.
--Ability cannot reduce a unit below merge rank 1.
--Cooldown left for developers to define
+# Shaman
 
-1st Talent (Left) Fox’s Blessing: A new variant of the shaman is introduced called the Chief ritualist (first shamans merged don't result in a curse but create a Chief Ritualist) With the chief ritualist in the center of the board and 4 shamans at each corner all with a combined merge rank of 15. For 25s The Shamans conducts a blessing thank increases the mergerank of 2 units adjacent to the Ritualist by 1(The shamans must not be merged or disturbed during the ritual or it'll cause a restart)
-1st Talent (Right) Fox’s Curse: A new variant of the shaman is introduced called the Chief Ritualist, WIth the chief ritualist in the center of the board and 4 shamans at each corner all with a combined merge rank of 15. For 40s the Shamans conducts a curse on the opponent that reduces the merge rank of units of the units in the two marked squares on the opponent’s board by 2.The squares are randomized after each successful ritual (The shamans must not be merged or disturbed during the ritual or it'll cause a restart)
-*sound cues to show the initiation of a ritual and disruption*
+## Base Mechanic Adjustment
+- Gains a mana ability reducing the merge rank of the highest-rank Shaman (cannot drop below 1).
+- Cooldown: **TBD by developers**
 
-2nd Talent (Left) Loved by the goddess: After a successful ritual each unit has a 3% chance for 1st talent to change merge rank by 2 and 0.5% chance to change merge rank by 3
-2nd Talent (Right) A believers Faith: Merging other units have a 3% chance to activate the shaman’s basic mechanic.
+---
 
-3rd Talent (Left) Totem of Great Fortune: Throws a totem on the path before the Phantom, which lasts 30 seconds. The totem has a 5% chance of canceling a bosses a effect by the power of the goddess
-3rd Talent (Right) Venge Totem of Calamity: Throws a totem on the opponents path during the Phantom, which lasts 30 seconds. The totem has a 2.5% chance of doubling bosses effect by the power of the goddess
+## 1st Talent
 
-Final Talent:Deity of Reality: Every wave a shaman has a 5% chance to be possessed upon summoning.The possessed shaman doesn't attack, once merged with the chief ritualist he becomes enlightened.After the last monster shows up it summons the goddess of reality which descends as two fox spirits; The fox of destruction descends to the opponents board stunning 3 units.The fox of creation creates traps on the ground that slow the boss by 20% then descends unto your highest merge rank unit giving it a 30% damage increase for the duration of the boss wave.
+- **Left: Fox’s Blessing**
+  - New variant: **Chief Ritualist**
+  - When first Shamans are merged:
+    - Instead of curse, creates a Chief Ritualist.
+    - With Ritualist in the center and 4 Shamans at the corners (total merge rank 15):  
+      - Ritual begins; for 25s, increases merge rank of 2 adjacent units by 1.
+      - *(Merging/moving shamans during ritual restarts it.)*
 
+- **Right: Fox’s Curse**
+  - New variant: **Chief Ritualist**
+  - With Ritualist in center and 4 Shamans at the corners (total merge rank 15):
+    - Ritual begins; for 40s, curses opponent by reducing merge rank of 2 random units in marked squares by 2.
+    - Squares are randomized after each ritual.
+    - *(Merging/moving shamans during ritual restarts it.)*
 
+  *Sound cues indicate ritual start/disruption.*
 
+---
 
+## 2nd Talent
 
+- **Left: Loved by the Goddess**
+  - After successful ritual, each unit has:
+    - 3% chance for 1st talent change of merge rank by 2.
+    - 0.5% chance for merge rank change by 3.
 
+- **Right: A Believer’s Faith**
+  - Merging other units has a 3% chance to activate Shaman’s basic mechanic.
 
+---
 
-Shaman Reincarnation
+## 3rd Talent
 
-Skill 1- ENLIGHTENED SPIRIT (with Dryrad) Possessed shaman and gives 1% crit chance to adjacent units and if in the center of the board he gives 1% crit chance to all units.
-L1 at 0.75% Increased critical chance
-L2 at 1.00% Increased critical chance
-L3 at 1.25% Increased critical chance
+- **Left: Totem of Great Fortune**
+  - Throws a totem on the path before the Phantom (30s duration).
+  - Totem has 5% chance to cancel boss’s effect by goddess’s power.
 
-Skill 2  -  DEITY’S PUNISHMENT (with Knight Statue) Deity of Reality improved.The fox spirit has a chance to lock opponents hero ability for a duration of time
-L1:5% chance of activation for 2.5 seconds
-L2:10% chance of activation for 3.5 seconds
-L3:15% chance of activation for 5 seconds
+- **Right: Venge Totem of Calamity**
+  - Throws a totem on opponent’s path during Phantom (30s duration).
+  - Totem has a 2.5% chance to double boss’s effect by goddess’s power.
 
-Skill 3 - WITCH DOCTOR(with Witch): A chance for an enlightened chief ritualist to remove negative effects from adjacent units
-L1: 7% chance to remove negative effects 
-L2: 14% chance to remove negative effects 
-L3: 20% chance to remove negative effects
+---
+
+## Final Talent
+
+- **Deity of Reality**
+  - Every wave: 5% chance for a Shaman to be possessed upon summoning.
+  - Possessed Shaman does not attack. When merged with Chief Ritualist, becomes enlightened.
+  - After last monster appears:
+    - Summons the goddess of reality (two fox spirits):
+      - *Fox of Destruction*: Stuns 3 units on opponent’s board.
+      - *Fox of Creation*: Creates traps slowing boss by 20%, then grants your highest merge rank unit +30% damage for the boss wave.
+
+---
+
+## Reincarnation Skills
+
+### Skill 1: Enlightened Spirit (with Dryad)
+- Possessed Shaman grants 1% crit chance to adjacent units (or all units if in center).
+  - L1: 0.75% crit chance
+  - L2: 1.00% crit chance
+  - L3: 1.25% crit chance
+
+### Skill 2: Deity’s Punishment (with Knight Statue)
+- Deity of Reality’s fox can lock opponent’s hero ability.
+  - L1: 5% chance for 2.5s
+  - L2: 10% chance for 3.5s
+  - L3: 15% chance for 5s
+
+### Skill 3: Witch Doctor (with Witch)
+- Enlightened Chief Ritualist can remove negative effects from adjacent units.
+  - L1: 7% chance
+  - L2: 14% chance
+  - L3: 20% chance
