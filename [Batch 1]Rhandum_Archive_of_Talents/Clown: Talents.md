@@ -1,28 +1,53 @@
-Clown
+# Clown
 
-Base Mechanic Adjustment
+## Base Mechanic Adjustment
+- Gains a mana ability that reduces the merge rank of the highest-rank Clown.
+- Ability cannot reduce below merge rank 1.
+- Cooldown: *TBD by developers.*
 
--Gains a mana ability that reduces the merge rank of the highest-rank clown.
+---
 
--Ability cannot reduce a unit below merge rank 1.
+## 1st Talent
 
--Cooldown left for developers to define
+- **Left: Just a Silly Joke**
+  - On failed copy, Clown laughs, giving adjacent units +13% damage for 10s (duration of laughter).
+  - No new damage boost can be given until the 10s end.
 
+- **Right: Perhaps Take 2?**
+  - On failed copy, 40% chance for a second attempt (without losing a merge rank).
 
+---
 
-1st Talent (Left) Just a silly Joke: When a clown fails to copy  he laughs which give adjacent units +13% damage for 10 seconds(duration of his laughter) wouldn't give damage boost until 10s later.
+## 2nd Talent
 
-1st Talent (Right) Perhaps Take 2? : After a failed copy attempt there's a 40% chance a clown will get a second chance without losing a merge rank
+- **Left: Emperor’s Acrobat**
+  - All Clowns become Acrobats.
+  - Give a 10% attack speed boost per merge rank to adjacent units.
+  - If 2+ Clowns are adjacent, the bonus is reduced to 5%.
 
+- **Right: Emperor’s Juggler**
+  - All Clowns become Jugglers.
+  - Give +1% crit chance to adjacent units.
+  - If 2+ Clowns are adjacent, the bonus is reduced to 0.5%.
 
-2nd Talent (Left) : Emperor’s Acrobat: all clowns become acrobats giving a 10% attack speed boost per merge rank to adjacent units, however if 2 or more clowns are adjacent to each other the bonus is reduced to 5% ,
+---
 
-2nd Talent (Right): Emperor’s Juggler:all clowns become jugglers giving a +1% crit chance to adjacent units, however if 2 or more clowns are adjacent to each other the bonus is reduced to 0.5%
+## 3rd Talent
 
+- **Left: Purity of Imagination**
+  - 10% chance to summon origami familiars onto the opponent’s board (150% monster health).
+  - Upon their defeat, summons a light beam that exorcises the first 3 monsters on the board.
 
-3rd Talent (Left) Purity of Imagination 10% chance to summon origami familiars to the opponents board with 150% monster health after they are killed summons a light beam that exorcises the first 3 monsters on the board.
+- **Right: Art of Craft**
+  - 8% chance to summon a balloon on the opponent’s board.
+  - Balloon nullifies all crit in an area.
+  - Has 50% monster health; upon destruction, summons light scissors that exorcise the first 3 monsters on your field.
 
-3rd Talent (Right) Art of Craft 8% chance to summon a balloon to the opponents field that nullifies all crit in an area of surrounding monsters, the balloon has 50% monster health and upon its destruction will summon a light scissors that exorcises first 3 monsters on your field.
+---
 
+## Final Talent
 
-Final Talent: The Fool: Gives clowns a 25% chance of taking negative effects.When Stacks are at 0 gives a +1% crit chance to all units.Clowns also throw light based origami every 30 seconds on the field that weaken monsters breaking 5% armour for 10 seconds
+- **The Fool**
+  - Clowns have a 25% chance of taking negative effects.
+  - When stacks are at 0: All units gain +1% crit chance.
+  - Every 30s, Clowns throw light-based origami on the field, weakening monsters (breaks 5% armor for 10s).
