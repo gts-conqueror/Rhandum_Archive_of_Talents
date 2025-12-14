@@ -1,8 +1,8 @@
 # Chemist
 
 ## Principal Variations
-- **Principal Investigator** (new variant)
-- **Lab Assistant** (new variant)
+- **Principal Investigator** (*variant*)
+- **Lab Assistant** (*variant*)
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **Left: Enhance Reagent Prototype v1 (Red)**
   - The highest merge rank Chemist becomes the "Principal Investigator."
-  - The Principal Investigator stops attacking for 15s to conduct an experiment.
+  - The Principal Investigator stops attacking for 17s to conduct an experiment.
   - After the experiment: Distributes a new potion to other Chemists, boosting armor destruction by +5% for each Chemist's current value (15s duration).
   - This process repeats.
 
@@ -37,12 +37,16 @@
 - **Left: Octet Rule**
   - When the total combined merge rank of Chemists is a multiple of 8:  
     - All units adjacent to a Chemist increase critical chance by 1% and attack speed by 2 per merge rank.
-    - (Adds sound effect once reached.)
+      
+    *Sound cues / animations to indicate reached threshold.*
+    
+    *Stack counter to show total combined mergerank.*
 
 - **Right: Redox Reaction**
-  - Dragging a Principal Investigator onto a unit reduces it, granting +1% crit chance for all units of that single type and increasing their attack speed by 5% for 40s.
-  - Afterward, the Principal Investigator becomes "oxidized," disabling the production of Reagents for 15s after the reaction (sound effect when triggered).
-
+  - Dragging a Principal Investigator onto a unit of the same merge rank puts set unit in a "reduced" state, granting +1% crit chance for all units of that single type and increasing the specific unit's attack speed by 5% for 40s.
+  - Afterward, the Principal Investigator becomes "oxidized," disabling the production of Reagents for 15s after the reaction.
+   
+   *Sound cues / animations to indicate Principal Investigator re-activation.*
 ---
 
 ## Final Talent
