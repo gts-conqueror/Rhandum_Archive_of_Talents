@@ -52,4 +52,5 @@
 
 - **Final Performance / Marceau's Performance**
   - Mask Maker entertains the first boss, delaying its ability activation by 50%.
+   
    *Unique animation of the mime that shows this effect*
