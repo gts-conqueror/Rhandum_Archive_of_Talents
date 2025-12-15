@@ -40,4 +40,4 @@ Right talents: a timid, self-conflicting executioner._
 - **Asylum Frenzy**
   - After every instant kill, increases instant kill chance by 0.5%, resets at 10%.
 
-   *Stack counter incorporated for tracking.*
+   *Stack counter incorporation for tracking.*
