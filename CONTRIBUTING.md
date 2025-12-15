@@ -15,7 +15,7 @@ Contributions fall into **two primary categories**:
 ## 1. Discussion-Based Contributions
 
 The **Discussion Boards** are the heart of community interaction.  
-Anyone may freely post:
+Anyone may freely comment:
 
 - Ideas
 - Balance suggestions
@@ -23,6 +23,8 @@ Anyone may freely post:
 - Humor and thematic dialogue
 - Feedback on existing proposals
 - General conversation in **Community Gathering**
+
+under deginated posts.
 
 These discussions help guide the **direction, tone, and priorities** of future design work.
 
@@ -113,7 +115,7 @@ You can:
 - Share inspiration
 - Help with thematic flavor
 
-Commenting under the **Reddit or Discord teaser posts** is also acceptable.
+Commenting under the **Reddit or Discord teaser posts** is also acceptable, although might be slower.
 
 Everything helps.
 
