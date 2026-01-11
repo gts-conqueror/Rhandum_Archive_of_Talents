@@ -5,12 +5,12 @@ _This file is in honour of my clan.
 
 ### Skill 1: Vengeful Marksman (with Demon Hunter) 
 - A special Gunslinger variant appears: **The Marksman** (uses a sniper instead of pistols).
-  Every 10 seconds the possible maximun number of **Vengeance Mark(s)** is applied to random monsters dependent on the merge rank of the marksman (mini bosses included).
-  When a **marked monster** falls below X% HP,The Marksman fires a single execution shot, instantly finishing it.
+  Every 20 seconds the possible maximum number of **Vengeance Mark(s)** is applied to random monsters on the path, dependent on the merge rank of the marksman (mini bosses included).
+  When a **marked monster** falls below X% HP,The Marksman fires a single execution shot, instantly finishing it. After 10 seconds the mark dissipates if monster isnt killed.
 
-  - L1: at 15% monster health Finish-off
-  - L2: at 25% monster health Finish-off 
-  - L3: at 30% monster health Finish-off
+  - L1: at 10% monster health Finish-off
+  - L2: at 20% monster health Finish-off 
+  - L3: at 25% monster health Finish-off
 
 | Tier | # of Vengence Marks |
 |------|---------------------|
@@ -18,7 +18,7 @@ _This file is in honour of my clan.
 | 4    | 3                   |
 | 7    | 5                   |
 
-### Skill 2:Flow State (with Monk)
+### Skill 2: Flow State (with Monk)
 - When mana ability is activated, Gunslinger enters a **Flow State** for duration of ghost shot and can move around the board an extended number of times before reloading
   - L1: 3 times before reloading
   - L2: 4 times before reloading
@@ -26,7 +26,7 @@ _This file is in honour of my clan.
 
 ### Skill 3: La Muerte (with Hex)
 - When a marked monster (from Skill 1) is sniped,It leaves behind a **Sigil** on the path for a duration of time. 
-  Sigils reduce monster armour by an additional % and disable mini-boss ability for 3 seconds after leaving the marking.
+  **Sigils** reduce monster armour by an additional % and disable mini-boss ability when "on" and 3 seconds after leaving the marking.
   - L1: 5% extra armour reduction, disables mini boss ability for 3 seconds
   - L2: 7% extra armour reduction, disables mini boss ability for 3 seconds
   - L3: 10% extra armour reduction, disables mini boss ability for 3 seconds
