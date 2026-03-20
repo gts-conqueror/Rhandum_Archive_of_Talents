@@ -5,7 +5,7 @@
 ## Base Mechanic Adjustment
 - Gains a mana ability that grants a merge rank to the highest-rank Clown.
 - Ability cannot exceed merge rank 5 before switching to the next higest clown.
-- Cooldown: *TBD by developers.* (*prob around 35-40s*)
+- Cooldown: *TBD by developers.* (*prob around 25-30s*)
 
 ---
 
@@ -44,7 +44,7 @@
 
 - **Right: Art of Craft**
   - 8% chance to summon a balloon on the opponent’s board after a successful copy.(120% monster health)
-  - Balloon nullifies all crit within a raduis. (*TBD by devs)
+  - Balloon nullifies all crit within a raduis. *TBD by devs* (*probably the same as Demonologist's Arch Demon*)
   - Upon destruction, summons light scissors that exorcise the first 3 monsters on **your** field.
 
 ---
@@ -52,7 +52,7 @@
 ## Final Talent
 
 - **The Fool**
-  - Clowns have a 25% chance of taking negative effects.
+  - Clowns have a 25% chance of taking negative effects after a loss of merge rank.
   - When there're no units with the clan copy effect: All units gain +1% crit chance.
   - Every 30s, Clowns throw light-based origami on the field, weakening monsters (breaks 5% armor for 10s).
      
