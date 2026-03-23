@@ -1,9 +1,6 @@
-# Community Inspiration Log
-This project incorporates conceptual inspiration from public discussions.
+# Hall of Fame: Community Inspiration Log
 
-Listed below are users whose comments influenced specific mechanics.
+*This section will be populated as the Rhandum Townhall community discussions develop.
+Contributors whose ideas, feedback, or creative direction shape future design work will be recognized here.*
 
-## Sources of Inspiration
-- @username - Inspired X mechanic.
-
-- @username - Suggested direction for Y thematic identity.
+*No entries yet. Discussions are open.*
