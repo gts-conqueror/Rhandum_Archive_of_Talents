@@ -1,9 +1,20 @@
 # Executioner
 
-_Left talents: an executioner who enjoys killing.  
-Right talents: a timid, self-conflicting executioner._
+## Unit Overview: Executioner
+
+**Role:** DPS **|**
+**Rarity:** Epic **|**
+**Core Mechanic:** Instantly finishes off monsters that fall below a set percentage of their maximum health.
+
+### Current State
+Executioner is genuinely enjoyable at the Arena level, the finish-off mechanic creates satisfying moments of board control and feels powerful against standard monster waves. At League levels, where boss health pools are enormous and the finish-off threshold becomes negligible, the mechanic loses almost all impact. The unit doesn't scale, leaving a fun Arena experience with no path forward.
+
+### Design Goal
+These talents build a viable high-level identity by introducing risk-weighted payoffs, kill-chain momentum, and conditional boss interaction mechanics that reward aggressive play and commitment at the cost of consistency. A player running Executioner well at the League level should feel the weight of every kill: not just a cleanup tool, but an escalating threat that builds toward something dangerous.
 
 ---
+## Talentry Proposal
+To bring the Executioner into the high-stakes environment of League play, these talents split the unit’s identity between a bloodthirsty, momentum-based unit and a hesitant, identity crisis, utility-focused tactician.
 
 ## 1st Talent
 
@@ -12,7 +23,8 @@ Right talents: a timid, self-conflicting executioner._
 
 - **Right: Word is Law**
   - After finishing 20 monsters, Executioner stops finishing but gives all units a 2% instant kill chance for 10s. Then resumes normal duties.
-
+>SFX to indicate instant kill chance is active
+>VFX stack counter for finished off monsters
 ---
 
 ## 2nd Talent
@@ -22,6 +34,7 @@ Right talents: a timid, self-conflicting executioner._
 
 - **Right: Executioner’s Depression**
   - Reduces finish-off % by 50%, but increases Executioner's damage by 10% per merge rank.
+>VFX or SFX for mergerank increase
 
 ---
 
@@ -31,8 +44,9 @@ Right talents: a timid, self-conflicting executioner._
   - 3% chance to unleash two-handed axe: sweeps the board, cleaving 50% monster health and finishing any monster below 50% health.
 
 - **Right: Judge and Jury**
-  - 2.5% chance to judge a boss and execute it with a massive axe after it uses its ability (max 1 boss per wave).
+  - 3% chance to judge a boss and execute it with a massive axe after it uses its ability (max 1 boss per wave).
 
+>VFX for axe effects 
 ---
 
 ## Final Talent
@@ -40,4 +54,4 @@ Right talents: a timid, self-conflicting executioner._
 - **Asylum Frenzy**
   - After every instant kill, increases instant kill chance by 0.5%, resets at 10%.
 
-   *Stack counter incorporation for tracking.*
+  >*Stack counter incorporation for tracking.*
