@@ -30,6 +30,8 @@ The guiing philosophy behin this project is simple:
 Many mechanics are structured around **setup and delayed impact**, reinforcing a support-forward identity that rewards foresight rather than reaction.  
 Effects unfold in **phases, not bursts**, allowing opponents time to read the play and respond keeping balance intact in a fast-paced game.
 
+>Note: Mechanics presented in this archive are not yet mathematically balanced. Values, cooldowns, and thresholds are intentional placeholders suggested as reference points and expected to be tuned through mathematical analysis, playtesting and developer discretion
+
 ---
 
 ## Scope and Structure
@@ -47,6 +49,8 @@ Each unit entry includes:
 
 Each batch is intended to be read as **a movement**, not a solo.
 
+  The archive's proposals are supported by a growing series of unit analyses, mathematical and mechanical deep-dives that examine existing talent structures, quantify performance trade-offs, and ground design decisions in evidence rather than intuition. Each analysis is intended to resolve genuine community debates with rigorous methodology, serving both as standalone reference material and an additional side piece along side mechanical concepts in this repository.
+  
 ---
 
 ## Collaboration & Use
@@ -94,3 +98,13 @@ These ideas are offered in good faith and with respect for the complexity of liv
 They are not prescriptions, but only melodies that could be cut, softened, or rearranged entirely.
 
 If nothing else, let them stand as proof that **even older instruments can still shape the rhythm of the board**.
+
+---
+## About the Author
+
+**gts-conqueror** is a Rush Royale player and independent game design researcher with a focus on mechanical identity, balance theory, and unit rehabilitation for underutilized units. This project is a self-initiated, non-commercial design archive built with the intent of contributing meaningfully to the game's long-term health and community discourse.
+
+**Open to collaboration.** If you're a developer, content creator, or community figure interested in this work, I'm reachable at:
+
+- **Discord:** gts_warlord
+- **Email:** gts.warlord@gmail.com
