@@ -24,7 +24,7 @@ Anyone may freely comment:
 - Feedback on existing proposals
 - General conversation in **Community Gathering**
 
-under deginated posts.
+...under posts related to their topic.
 
 These discussions help guide the **direction, tone, and priorities** of future design work.
 
