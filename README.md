@@ -1,4 +1,5 @@
 # Rhandum_Archive_of_Talents
+>**Batch 1 REALEASE: 6 unit proposals + 1 Bonus | 3 analyses published | Townhall open**
 
 *A curated codex of proposed talents and reincarnations for Rush Royale’s forgotten units woven to restore rhythm, identity, and balance to the battlefield of Rhandum.*
 
