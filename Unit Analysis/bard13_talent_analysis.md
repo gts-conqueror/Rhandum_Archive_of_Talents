@@ -81,7 +81,7 @@ of Power's 1.4x modifier.
 *Table 2: Full performance comparison including Cacophony during the 10s window.*
 
 **Observation:** Aria of Power produces **5.15% higher total output** than Hymn of Vigor.
-The margin is driven by the amplified Clump damage — 64,428 per proc vs 46,020 — which more
+The margin is driven by the amplified Clump damage 64,428 per proc vs 46,020 which more
 than compensates for the four fewer shots fired.
 
 ---
@@ -96,18 +96,18 @@ powerful than it initially appears.
 - **Clump Amplification:** Because Chaotic Clump is a guaranteed critical hit, it receives the
   full benefit of the 1.4x multiplier. Hymn of Vigor has no equivalent leverage on proc damage.
 - **Diminishing Returns on Speed:** Adding 20% more shots to an already fast attack pattern
-  produces linear gains. Multiplying the entire critical structure — including procs — produces
+  produces linear gains. Multiplying the entire critical structure including procs  produces
   compounding value per event.
 - **Frequency vs. Magnitude:** At a 5% crit rate, most attacks are standard hits. Aria of Power
   makes each of the rare, high-value events (crits and Clumps) significantly more impactful
   rather than adding more of the common, lower-value events.
 
-**Battle Strategy — "Precision Over Volume":**
+**Battle Strategy: "Precision Over Volume":**
 
 Aria of Power's activation condition (5 inspirations) requires intentional play, but rewards it
 with an amplified burst window that hits harder on every high-value proc. Hymn of Vigor remains
 easier to activate consistently, which still makes it a valid choice for players who prioritise
-simplicity — but the mathematical ceiling belongs to Aria of Power.
+simplicity, but the mathematical ceiling belongs to Aria of Power.
 
 ---
 
@@ -145,7 +145,7 @@ approximately 1.19x. At the confirmed 1.4x, it comfortably exceeds the speed tal
 | **Aria of Power** (Crit Damage) | Higher Clump amplification; multiplicative scaling on all crit events; mathematically superior total output | Requires 5 inspirations to activate; harder to maintain consistently |
 | **Hymn of Vigor** (Attack Speed) | Easier activation (any exit from music mode); consistent and reliable; stronger in the original additive model | Lower ceiling under confirmed multiplicative scaling; no leverage on proc damage |
 
-*Table 3: Final evaluation of Bard Ability Tree pathing — Multiplicative Model.*
+*Table 3: Final evaluation of Bard Talent pathing.*
 
 **Conclusion: Aria of Power is the mathematically superior choice under confirmed multiplicative
 scaling.** The 1.4x critical multiplier amplifies both standard crits and Cacophony procs,
