@@ -16,7 +16,7 @@ Each system is written with **developer tunability** in mind. Percentages, durat
 
 ## Design Intent
 
-The guiing philosophy behin this project is simple:
+The guiding philosophy behind this project is simple:
 
 - **No early-game dominance**  
   Power is earned through setup, positioning, hard decisions, and sacrifice.
