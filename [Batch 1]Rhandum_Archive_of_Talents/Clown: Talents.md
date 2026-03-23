@@ -16,7 +16,7 @@ These talents restore Clown's relevance not by making it more consistent, but by
 ### Base Mechanic Adjustment
 Before diving into the talents, the following baseline adjustments are proposed to modernize the unit’s utility:
 - Gains a mana ability that grants a merge rank to the highest-rank Clown.
-- Ability cannot exceed merge rank 5 before switching to the next higest clown.
+- Ability cannot exceed merge rank 5 before switching to the next highest clown.
 - Cooldown: *TBD by developers.* (*prob around 25-30s*)
 
 ---
