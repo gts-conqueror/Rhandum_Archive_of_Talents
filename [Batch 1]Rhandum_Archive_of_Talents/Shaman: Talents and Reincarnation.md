@@ -18,7 +18,7 @@ These talents reframe Shaman from a blunt instrument into a ceremonial strategis
 Before diving into the talents, the following baseline adjustments are proposed to modernize the unit’s utility:
 - Reduces Curse activation to 1 curse every 2 merges
 - Gains a mana ability reducing the merge rank of the highest-rank Shaman (cannot drop below 1).
-- Cooldown: **TBD by developers. Probably around 20s*
+- Cooldown: *TBD by developers. Probably around 20s*
 
 
 ## Talent & Reincarnation Proposal
