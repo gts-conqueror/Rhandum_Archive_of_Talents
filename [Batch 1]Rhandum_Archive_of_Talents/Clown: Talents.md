@@ -21,13 +21,13 @@ Before diving into the talents, the following baseline adjustments are proposed 
 
 ---
 ## Talent Proposal
-These talents are designed to fully lean into the "naive" and carefree archetypes, ensuring the Clown’s presence is felt across the entire battlefield. By leaning into the unit's signature volatility, these additions transform "failed" merges into strategic opportunities, rewarding players who can navigate the character's inherent unpredictability.
+These talents are designed to fully lean into the 'naive' and 'carefree' archetypes, ensuring the Clown’s presence is felt across the entire battlefield. By leaning into the unit's signature volatility, these additions transform "failed" merges into strategic opportunities, rewarding players who can navigate the character's inherent unpredictability.
 
 
 ### 1st Talent
 
 - **Left: Just a Silly Joke**
-  - On failed copy, Clown laughs, giving adjacent units +13% damage for 10s.
+  - On failed copy, Clown laughs, giving adjacent units +10% damage for 5s.
   - 10s cooldown.
 
      >*VFX to indicate boost duration.*
