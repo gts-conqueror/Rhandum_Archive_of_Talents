@@ -74,8 +74,8 @@ These talents are designed to fully lean into the 'naive' and 'carefree' archety
 ### Final Talent
 
 - **The Fool**
-  - Clowns have a 25% chance of taking negative effects after a loss of merge rank.
-  - When there're no units with the clan copy effect: All units gain +1% crit chance.
+  - Clowns have a 25% chance of taking negative effects from adjacent units after a loss of merge rank.
+  - When there're no units with the clown copy effect: All units gain +1% crit chance.
   - Every 30s, Clowns throw light-based origami on the field, weakening monsters (breaks 5% armor for 10s).
      
   >*SFX / VFX to indicate "The fool's" sacrifice.*
